@@ -2,7 +2,6 @@
 
 (2 + 5) * 2
 
-
 ls()
 
 x = 1:9
@@ -39,7 +38,6 @@ x$x_sqrd = x$x^2
 
 # download the dataset 'Pupil/Student - teacher ratio and average class' from eurostat
 # for more developed API see https://github.com/rOpenGov/eurostat
-
 
 # download the dataset 'People killed in road accidents' from eurostat
 # and plot a maptable for selected countries
